@@ -20,6 +20,7 @@
 
     <modules>
         <module>sca-account</module>
+        <module>sca-nacos-config</module>
     </modules>
 
     <dependencyManagement>
