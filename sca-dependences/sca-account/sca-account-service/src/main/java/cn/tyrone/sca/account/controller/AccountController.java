@@ -7,10 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class AccountController {
 
-
     @GetMapping(value = "/echo/{string}")
     public String echo(@PathVariable String string) {
-        return "Hello Nacos Discovery " + string;
+        return "您好：" + string;
     }
 
 }
