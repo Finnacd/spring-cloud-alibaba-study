@@ -12,6 +12,8 @@
     <artifactId>sca-account-service</artifactId>
 
     <dependencies>
+
+        <!-- dubbo 服务接口 -->
         <dependency>
             <groupId>cn.tyrone.sca</groupId>
             <artifactId>sca-account-api</artifactId>
