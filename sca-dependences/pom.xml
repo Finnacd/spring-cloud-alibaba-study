@@ -21,6 +21,7 @@
     <modules>
         <module>sca-account</module>
         <module>sca-nacos-config</module>
+        <module>sca-gateway</module>
     </modules>
 
     <dependencyManagement>
